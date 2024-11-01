@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TAMindir</title>
+    <link>http://www.tamindir.com</link>
+    <description>TAMindir RSS 2.0</description>
+    <language>tr-TR</language>
+    <pubDate>Mon, 20 Feb 2012 13:16:03 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2012 13:16:03 +0200</lastBuildDate>
+    <item>
+      <image>
+        <url>http://img.tamindir.com/ti_e_ul/forli/p/vlc_32x32.png</url>
+      </image>
+      <title>Tamindir</title>
+      <link>#</link>
+      <category>#</category>
+      <description>
+        <![CDATA[Tamindir RSS bileşeni yayından kaldırılmıştır.]]>
+      </description>
+      <pubDate>2012-02-20T12:12:00+02:00</pubDate>
+      <guid>#</guid>
+    </item>
+  </channel>
+</rss>
